@@ -23,3 +23,4 @@
 - Oturumu açıksa ama Eposta Doğrulanmadıysa / Bekletme sayfası
 - Oturumu açıksa ve Eposta Doğrulandıysa / Akış Sayfası
 # firebase-twitterClone
+# firebase-twitterClone
