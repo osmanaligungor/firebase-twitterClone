@@ -23,8 +23,11 @@
 <li>react-icons</li>
 <li>react-router-dom</li>
 <li>react-toastify</li>
-<li>Firestore</li>
+<li>firestore</li>
 <li>uuid</li>
 
 <h1>Preview</h1>
+
+![Screen Recording 2025-04-10 at 12 03 52](https://github.com/user-attachments/assets/bf99b3de-0de0-46a6-a697-f1e474aa32b6)
+
 
